@@ -55,5 +55,5 @@ Specs:
 
 
 ## 
-The CH559L, CH559T, CH549F, and CH552E can be programmed over Arduino IDE using an awesome library by DeqingSun https://github.com/DeqingSun/ch55xduino
+The CH559L, CH559T, CH549F, and CH552E can be programmed over Arduino IDE using an awesome support package by DeqingSun https://github.com/DeqingSun/ch55xduino
 Those boards come with MCU datasheets, and PCB schematics, and are free to use. Although a proper credit would be nice.
