@@ -1,4 +1,4 @@
-# REDBoard-CH55x-series
+# REDBoard-CH5xx-series
 
 
 
