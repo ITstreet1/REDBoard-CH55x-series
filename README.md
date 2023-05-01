@@ -51,7 +51,29 @@ Specs:
 * 5x GPIO
 * UART, SPI, 2x ADC
 
+#### Update 5.1.2023
 
+# CH551G
+
+![20230501_200205](https://user-images.githubusercontent.com/30090189/235504915-77db5e97-9a9b-417e-8d9f-20f5a11c5af8.jpg)
+
+REDBoard based on CH551G MCU in SOP16 package from WCH
+Specs:
+* 24MHz
+* 16KB Flash
+* 10x GPIO
+* 2x UART, SPI, USB C, 4x ADC
+
+# CH552G
+
+![20230501_200157](https://user-images.githubusercontent.com/30090189/235506057-35ec0c1c-efb1-4629-9ee0-617a7aa352c7.jpg)
+
+REDBoard based on CH552G MCU in SOP16 package from WCH
+Specs:
+* 24MHz
+* 10KB Flash
+* 10x GPIO
+* UART, SPI
 
 
 ## 
